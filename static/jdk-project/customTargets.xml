@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CLionExternalBuildManager">
+    <target id="01cbc9a8-da1e-45d3-a066-11d7187090c1" name="linux-x86_64-server-slowdebug" defaultType="TOOL">
+      <configuration id="3cafbe93-1517-4f43-9fb7-4a4e1ecfe173" name="linux-x86_64-server-slowdebug">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_make clean linux-x86_64-server-slowdebug" />
+        </build>
+        <clean type="TOOL">
+          <tool actionId="Tool_External Tools_clean linux-x86_64-server-slowdebug" />
+        </clean>
+      </configuration>
+    </target>
+  </component>
+</project>

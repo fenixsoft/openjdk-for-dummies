@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="clean linux-x86_64-server-slowdebug" description="clean linux-x86_64-server-slowdebug" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="make" />
+      <option name="PARAMETERS" value="clean" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/jdk" />
+    </exec>
+  </tool>
+  <tool name="make clean linux-x86_64-server-slowdebug" description="make clean linux-x86_64-server-slowdebug" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="make" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/jdk" />
+    </exec>
+  </tool>
+</toolSet>

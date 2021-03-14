@@ -1,0 +1,7 @@
+# Ignore everything but specific dirs
+
+**
+
+!/projector-client/**
+!/projector-server/**
+!/projector-docker/static/**
